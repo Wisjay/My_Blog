@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: #4a037a;
+  }
+h2 {
+    text-align: left;
+    color: #72037a;
+  }
+h3 {
+    text-align: left;
+    color: #037a6a;
+  }
+
+mark {
+    background-color: #4312ad;
+    color:white;
+  }
+
+em {
+    background-color: #80f08b;
+     }
+
+body {
+  padding: 10px; 
+  font-size:1.2rem;
+  font-family: 'Arial', sans-serif;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+a:visited{
+  color: #8c0606;
+}
+
+a:hover {
+  color: #33ffff;
+  
+}
+
+a:active{
+  color: #1900ff;
+}
+
+
+
